@@ -1,0 +1,16 @@
+*.dot
+*.py
+*.prob
+*.txt
+.DS_Store
+rl-lib/target
+*.vscode
+*.log
+*.aux
+*.py
+*.tex
+*.fls
+*.fdb_latexmk
+*.dvi
+*.sty
+
