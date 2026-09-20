@@ -19,28 +19,6 @@ Ce projet est le fruit de notre travail autour de l'apprentissage par renforceme
    3 : TicTacToe
 
 ------------------------------------------------------------
- Remarques importantes :
-------------------------------------------------------------
-- Lors de l'exécution des runners, des fenêtres de graphes s’ouvriront.
-   Ne les fermez pas tant que l’exécution n’est pas terminée, sinon le processus s’arrêtera.
-
-- Pour arrêter le processus après exécution :
-   Appuyer sur Ctrl-C dans le terminal
-   Ou fermer une fenêtre de graphe une fois le programme terminé
-
-------------------------------------------------------------
-Personnalisation :
-------------------------------------------------------------
-Le nombre d’épisodes et certains paramètres peuvent être modifiés directement
-dans le fichier App.java (voir les commentaires dans le code).
-
-------------------------------------------------------------
- Documentation :
-------------------------------------------------------------
-Un compte rendu est disponible dans le dossier reinforcement-learning-project/rl-lib/src/main/resources/docs. Il contient toutes les informations
-utiles : explications techniques, fonctionnement des algorithmes, structure du code, etc.
-
-------------------------------------------------------------
  Un mot de l'auteur: 
 ------------------------------------------------------------
 Ce travail nous a permis de découvrir les rouages d’un domaine passionnant, 
@@ -50,7 +28,7 @@ Qui aurait cru qu’une simple formule mathématique pouvait prédire mes vidéo
 
 Bonne exploration ! 
 
-#######################################################################################ENGLISH VERSION########################################################################################################################
+#################### ENGLISH VERSION #########################
 
 # Reinforcement Learning Project
 
